@@ -8,6 +8,8 @@ public static <String> void main(String[] args) {
 	System.out.println("pull test");
 	System.out.println("push test");
 	System.out.println("push test2");
+	System.out.println("pull test2");
+	System.out.println("push test3");
 	
 }
 }
