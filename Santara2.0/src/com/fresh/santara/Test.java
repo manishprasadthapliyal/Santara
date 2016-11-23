@@ -7,6 +7,7 @@ public static <String> void main(String[] args) {
 	System.out.println("commit");
 	System.out.println("pull test");
 	System.out.println("push test");
+	System.out.println("push test2");
 	
 }
 }
