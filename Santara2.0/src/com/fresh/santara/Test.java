@@ -14,6 +14,7 @@ public static <String> void main(String[] args) {
 	System.out.println("pull test3");
 	System.out.println("push test5");
 	System.out.println("pull test4");
+	System.out.println("push test6");
 	
 }
 }
